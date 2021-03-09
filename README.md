@@ -2,7 +2,8 @@
 <h3> Air
 <h4> - [x] Huron SI
 <h3> Ground
-<h4> - [ ] Prowler
-<h4> - [ ] Tempest 
-<h4> - [ ] Huron SI
-<h4> - [ ] Huron SI
+<h4> - [x] Prowler
+<h4> - [ ] Tempest Repair SI (Money Bank transfert)
+<h4> - [ ] Hatchback sport SI
+<h3> Water
+<h4> - [ ] RHIB SI
